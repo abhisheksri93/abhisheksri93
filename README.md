@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Senior Full Stack Developer with 9+ years of experience building scalable web applications, SaaS platforms, CRM systems, marketing automation tools, and high-performance backend architectures.
+I’m a Senior Full Stack Developer with 11+ years of experience building scalable web applications, SaaS platforms, CRM systems, marketing automation tools, and high-performance backend architectures.
 
 Currently working at **ByteWorld IT Services**, where I started as a Sr. Full Stack Developer and was promoted to **Tech Lead**, leading architecture decisions, mentoring developers, and delivering production-grade systems.
 
