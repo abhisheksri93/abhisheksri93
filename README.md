@@ -1,36 +1,42 @@
 # Hi, I'm Abhishek Srivastava 👋  
 
 🚀 Senior Full Stack Developer | Tech Lead | System Architect  
-💡 Building scalable products, AI-driven systems & performance-first web apps  
-🌍 India | Open to global & remote collaboration  
+💻 11+ Years of Experience (Since 2015)  
+🌍 India | Open to Remote & Global Opportunities  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Senior Full Stack Developer with 11+ years of experience building scalable web applications, SaaS platforms, CRM systems, marketing automation tools, and high-performance backend architectures.
+I am a Senior Full Stack Developer with 11 years of experience building scalable web applications, SaaS platforms, CRM systems, and high-performance backend architectures.
 
 Currently working at **ByteWorld IT Services**, where I started as a Sr. Full Stack Developer and was promoted to **Tech Lead**, leading architecture decisions, mentoring developers, and delivering production-grade systems.
 
-I specialize in:
-- Designing scalable backend systems
-- Building high-performance frontend applications
-- Integrating AI into real-world products
-- Cloud infrastructure & DevOps workflows
-- Product-focused engineering
+Over the years, I’ve built:
+- CRM & ERP systems
+- Marketing automation platforms
+- WhatsApp / SMS / Email automation engines
+- Real-time communication systems
+- SaaS dashboards
+- AI-driven workflow systems
 
-I don’t just write code — I design systems.
+I focus on designing systems that are scalable, maintainable, and performance-first.
+
+I don’t just build features — I design systems.
 
 ---
 
-## 🧠 What I’m Currently Focused On
+## 🧠 Currently Expanding Into
 
-- AI-powered CRM & automation systems  
-- WhatsApp / RCS / Communication automation platforms  
-- Cloud-native architecture (AWS)  
-- Redis-based queue optimization  
-- Performance-first full stack systems  
-- AI Agents inside SaaS products  
+To stay aligned with modern AI-native architecture, I am actively building projects using:
+
+- React.js
+- Next.js
+- Python
+- FastAPI
+- Flask
+
+I’m integrating these with backend systems, AI APIs, and scalable architectures to build modern full-stack AI-ready applications.
 
 ---
 
@@ -38,16 +44,19 @@ I don’t just write code — I design systems.
 
 ### 💻 Frontend
 - Vue.js 2
+- React.js
 - Next.js
-- React
 - Redux
 - Tailwind CSS
-- HTML5 / CSS3 / JS (ES6+)
+- HTML5 / CSS3 / JavaScript (ES6+)
 
 ### ⚙️ Backend
 - Node.js
 - NestJS
 - Express.js
+- Python
+- FastAPI
+- Flask
 - REST APIs
 - Microservices Architecture
 
@@ -60,59 +69,64 @@ I don’t just write code — I design systems.
 ### ☁️ Cloud & DevOps
 - AWS (EC2, S3, SES, RDS)
 - Nginx
-- Docker (Learning & Implementing)
-- CI/CD pipelines
 - Ubuntu Server Management
+- CI/CD Pipelines
+- Docker (Actively implementing in projects)
 
 ### 🤖 AI & Automation
 - LLM Integrations
 - AI-based workflow automation
-- Marketing automation engines
 - Chat-based systems
+- Communication automation platforms
 
 ---
 
-## 📈 Leadership Experience
+## 📈 Leadership & Impact
 
 As a Tech Lead, I:
+
 - Designed scalable backend architectures
+- Led full-cycle feature development
 - Improved system performance & stability
-- Managed production infrastructure
-- Led feature planning & implementation
-- Mentored developers
-- Optimized Redis & queue-based systems
-- Reduced downtime through better DevOps practices
+- Managed production infrastructure on AWS
+- Optimized Redis-based queue systems
+- Reduced downtime via better deployment workflows
+- Mentored developers and reviewed architecture decisions
 
 ---
 
-## 📂 Types of Projects I Build
+## 📂 What I Build
 
-- CRM / ERP systems  
-- Marketing automation platforms  
-- WhatsApp / SMS / Email automation engines  
-- Real-time communication systems  
-- SaaS dashboards  
-- AI-driven product features  
-- Workflow management systems  
+- CRM / ERP Platforms
+- Marketing Automation Systems
+- Communication Engines (WhatsApp / SMS / Email)
+- AI-integrated SaaS Applications
+- Workflow & Task Management Systems
+- Performance-first APIs
+- Scalable Backend Architectures
 
 ---
 
 ## 🎯 Engineering Philosophy
 
 - Clean Architecture > Quick Hacks  
-- Performance > Overengineering  
-- Systems Thinking > Feature Thinking  
-- Automation > Manual Processes  
-- Scalable from Day 1  
+- Scalability from Day One  
+- Performance & Stability First  
+- Automation Wherever Possible  
+- Build Like a Product Owner  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-- 💼 Open to senior engineering roles & product-driven teams  
-- 🌐 Interested in building AI-native SaaS products  
-- 📩 Reach out for collaboration or architecture consulting  
+I’m open to:
+- Senior Full Stack Roles
+- Technical Leadership Positions
+- AI-driven Product Teams
+- Remote Global Engineering Opportunities
+
+If you're building something ambitious — let's collaborate.
 
 ---
 
-⭐ If you find my work useful, feel free to explore my repositories.
+⭐ Explore my repositories to see my work in action.
